@@ -1,0 +1,8 @@
+{
+  "model": "ridge_poly2",
+  "cv_r2": 0.3671,
+  "test_r2": 0.4073,
+  "test_mae": 0.3175,
+  "n_train": 84,
+  "n_test": 21
+}
